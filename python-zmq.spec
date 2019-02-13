@@ -8,6 +8,7 @@
 %global srcname pyzmq
 %global modname zmq
 
+%global py_setup_args  --enable-drafts
 %global run_tests 0
 
 Name:           python-zmq
